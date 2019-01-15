@@ -1,0 +1,2 @@
+# DICOM-example
+digisoft intern 
